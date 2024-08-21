@@ -32,4 +32,4 @@ _______________
 _______________
 ## Mục lục
 ### Tiếng Việt
-[Hướng dẫn cài đặt và thiết lập OpenIPC](https://github.com/xuanvuong1702/device-mjsxj03hl/blob/master/Manual_vi.md)
+[Hướng dẫn cài đặt và thiết lập OpenIPC - Translate from English](https://github.com/xuanvuong1702/device-mjsxj03hl/blob/master/Manual_vi_en.md)
