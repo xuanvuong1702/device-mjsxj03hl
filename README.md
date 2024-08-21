@@ -28,3 +28,8 @@ _______________
 [Thông tin về các phân vùng firmware gốc. "Phân tích" flash mjsxj03hl](https://github.com/OpenIPC/device-mjsxj03hl/blob/master/FwPatch_.ru.md)
 
 [Phiên bản cũ của hướng dẫn thiết lập](https://github.com/OpenIPC/device-mjsxj03hl/blob/master/old_setting_up_ru.md)
+
+_______________
+## Mục lục
+### Tiếng Việt
+[Hướng dẫn cài đặt và thiết lập OpenIPC](./device-mjsxj03hl/blob/master/Manual_vi.md)
